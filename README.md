@@ -1,8 +1,10 @@
+# Nelkit Chavez - @nelkitchavez
+
 <a href="https://nelkit.dev/" style="width:100%">
     <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/header.png" width="100%" alt="header" border="0" />
 </a>
 
-### Acerca de Mi 👨🏽‍💻
+## Hola 👨🏽‍💻
 
 Mi nombre es Nelkit Chavez soy desarrollador de software, actualmente especializado en **Desarrolló de Aplicaciones Moviles**; nací en Honduras y me gradúe en la Universidad Politécnica de Ingeniería como **Ingeniero en Tecnologías de Información y Comunicación**, Trabajo actualmente en una empresa de movilidad urbana llamada [Ryte](https://www.ryte.hn).
 
@@ -12,7 +14,7 @@ Soy fan de los productos de **Apple** y me apasiona desarrollar aplicaciones en 
 
  Para más información descargar, visita mi pagina web personal: [nelkit.dev](https://nelkit.dev/)
 
-### Social 👋
+## Contacto 📲
 
 <div> 
     <a href="https://twitter.com/nelkitchavez"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/twitter.png" alt="twitter" border="0" width="48"></a>
