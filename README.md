@@ -1,11 +1,11 @@
-<img src="images/header.png"/>
+<img src="https://i.ibb.co/N9WHLD0/header.png" alt="header" border="0" />
 
 ### Social 👋
 
-<div style="display:flex; align-items:center; justify-content:space-around">
-    <img src="images/twitter.png" width="48" alt="twitter">
-    <img src="images/linkedin.png" width="48" alt="twitter">
-    <img src="images/behance.png" width="48" alt="twitter">
+<div style="text-align:center"> 
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/YjBMxDC/twitter.png" alt="twitter" border="0" width="48"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/jDp2DgX/linkedin.png" style="margin-left:50px" alt="linkedin" border="0" width="48"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/BrQgmrB/behance.png" style="margin-left:50px" alt="behance" border="0" width="48" ></a>
 </div>
 
 ### Acerca de Mi 👨🏽‍💻
