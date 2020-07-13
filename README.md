@@ -1,13 +1,6 @@
 <a href="https://nelkit.dev/" style="width:100%">
-    <img src="https://i.ibb.co/N9WHLD0/header.png" width="100%" alt="header" border="0" />
+    <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/header.png" width="100%" alt="header" border="0" />
 </a>
-### Social 👋
-
-<div style="text-align:center"> 
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/YjBMxDC/twitter.png" alt="twitter" border="0" width="48"></a>
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/jDp2DgX/linkedin.png" style="margin-left:50px" alt="linkedin" border="0" width="48"></a>
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/BrQgmrB/behance.png" style="margin-left:50px" alt="behance" border="0" width="48" ></a>
-</div>
 
 ### Acerca de Mi 👨🏽‍💻
 
@@ -18,3 +11,11 @@ Estoy en el mundo de desarrollo de software profesional desde el año 2015 y a l
 Soy fan de los productos de **Apple** y me apasiona desarrollar aplicaciones en **Swift**, sin embargo tambien me encanta el desarrollo web por lo que he adquirido buenos conocimientos en **Javascript** y **Python**, especialmente en tecnologías como **ReactJS** y **Django**. Constantemente estoy educándome e investigando nuevas tecnologías lo que me permite adquirir nuevas habilidades día tras día, actualmente estoy enfocando en mejorar mis conocimientos en **Inteligencia Artificial**.
 
  Para más información descargar mi resumen aca: [Descargar](https://drive.google.com/file/d/15eChKfjO80IrAI3TEooLIsZskKa-nIIa/view?usp=sharing)
+
+### Social 👋
+
+<div style="text-align:center"> 
+    <a href="https://twitter.com/nelkitchavez"><img src="https://i.ibb.co/YjBMxDC/twitter.png" alt="twitter" border="0" width="48"></a>
+    <a href="https://www.linkedin.com/in/nelkit/"><img src="https://i.ibb.co/jDp2DgX/linkedin.png" style="margin-left:50px" alt="linkedin" border="0" width="48"></a>
+    <a href="https://www.behance.net/nelkitisaef6da"><img src="https://i.ibb.co/BrQgmrB/behance.png" style="margin-left:50px" alt="behance" border="0" width="48" ></a>
+</div>
