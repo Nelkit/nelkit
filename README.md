@@ -1,5 +1,4 @@
-<img src="https://i.ibb.co/N9WHLD0/header.png" alt="header" border="0" />
-
+![](https://i.ibb.co/N9WHLD0/header.png)
 ### Social 👋
 
 <div style="text-align:center"> 
