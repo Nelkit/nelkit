@@ -1,7 +1,7 @@
 # Nelkit Chavez - @nelkitchavez
 
 <a href="https://nelkit.dev/" style="width:100%">
-    <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/header.png" width="100%" alt="header" border="0" />
+    <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/header.webp" width="100%" alt="header" border="0" />
 </a>
 
 ## Hola 👨🏽‍💻
