@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Welcome to my Github profile 👨🏽‍💻!</h1>
+<h1>Welcome to my Github Profile 👨🏽‍💻!</h1>
 </div>
 
 <a href="https://nelkit.dev/" style="width:100%">
