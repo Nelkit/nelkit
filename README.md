@@ -1,4 +1,6 @@
-# Welcome to my Github profile 👨🏽‍💻!
+<div align="center">
+<h1>Welcome to my Github profile 👨🏽‍💻!</h1>
+</div>
 
 <a href="https://nelkit.dev/" style="width:100%">
     <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/hero.png" width="100%" alt="header" border="0" />
@@ -14,9 +16,14 @@ To view all my projects, including previews and production links, please visit: 
 
 ## Get in touch 📲
 
-<div> 
-    <a href="https://twitter.com/nelkitchavez"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/twitter.png" alt="twitter" border="0" width="48"></a>
-    <a href="https://www.linkedin.com/in/nelkit/"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/linkedin.png"  alt="linkedin" border="0" height="48"></a>
-    <a href="mailto:nelkitisael792@gmail.com"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/email.png" alt="email" border="0" height="48" ></a>
-    <a href="https://assets.ctfassets.net/2sw9nk47elm0/6tJjHR93AClHDloAZ5N0PU/c6c9aca3e8879e5aa14191c95874f447/Resume_Nelkit_Chavez.pdf"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/cv.png" alt="cv" border="0" height="48" ></a>
+<div align="center"> 
+    <span>      [     </span>
+    <a  href="https://twitter.com/nelkitchavez"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_twitter.png" alt="twitter" border="0" width="48"></a>
+    <span>     ]      [     </span>
+    <a  href="https://www.linkedin.com/in/nelkit/"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_linkedin.png"  alt="linkedin" border="0" height="48"></a>
+   <span>      ]      [     </span>
+    <a  href="mailto:nelkitisael792@gmail.com"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_email.png" alt="email" border="0" height="48" ></a>
+   <span>      ]      [      </span>
+    <a  href="https://assets.ctfassets.net/2sw9nk47elm0/6tJjHR93AClHDloAZ5N0PU/c6c9aca3e8879e5aa14191c95874f447/Resume_Nelkit_Chavez.pdf"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="cv" border="0" height="48" ></a>
+    <span>      ]     </span>
 </div>
