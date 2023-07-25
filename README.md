@@ -14,16 +14,18 @@ Furthermore, I have ventured into the field of Backend development using Django,
 
 To view all my projects, including previews and production links, please visit: https://nelkit.dev/projects 
 
-## Get in touch 📲
+<div align="center">
+    <h2>Get in touch 📲</h2>
+</div>
 
 <div align="center"> 
     <span>      [     </span>
-    <a  href="https://twitter.com/nelkitchavez"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_twitter.png" alt="twitter" border="0" width="48"></a>
+    <a  href="https://twitter.com/nelkitchavez" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_twitter.png" alt="twitter" border="0" width="48"></a>
     <span>     ]      [     </span>
-    <a  href="https://www.linkedin.com/in/nelkit/"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_linkedin.png"  alt="linkedin" border="0" height="48"></a>
+    <a  href="https://www.linkedin.com/in/nelkit/" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_linkedin.png"  alt="linkedin" border="0" height="48"></a>
    <span>      ]      [     </span>
-    <a  href="mailto:nelkitisael792@gmail.com"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_email.png" alt="email" border="0" height="48" ></a>
+    <a  href="mailto:nelkitisael792@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_email.png" alt="email" border="0" height="48" ></a>
    <span>      ]      [      </span>
-    <a  href="https://assets.ctfassets.net/2sw9nk47elm0/6tJjHR93AClHDloAZ5N0PU/c6c9aca3e8879e5aa14191c95874f447/Resume_Nelkit_Chavez.pdf"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="cv" border="0" height="48" ></a>
+    <a  href="https://assets.ctfassets.net/2sw9nk47elm0/6tJjHR93AClHDloAZ5N0PU/c6c9aca3e8879e5aa14191c95874f447/Resume_Nelkit_Chavez.pdf" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="cv" border="0" height="48" ></a>
     <span>      ]     </span>
 </div>
