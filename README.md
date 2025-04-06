@@ -6,13 +6,16 @@
     <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/hero.png" width="100%" alt="header" border="0" />
 </a>
 
-I am a **mobile developer** with over seven years of experience in creating mobile applications, using  **native languages** like **Swift** and **hybrid solutions** like **Flutter** and React Native.
+I’m a **mobile developer** with over **seven years of experience** building high-quality mobile applications using **native technologies** like **Swift** and **hybrid frameworks** such as **Flutter** and **React Native**.
 
-My expertise extends to working with third-party libraries such as Alamofire, RealmDB, and native libraries like CloudKit, UIKit, CoreData, among others. I possess a set of skills that enable me to design a custom user interface using modern techniques like Swift UI, as well as more traditional approaches like Storyboards or UIKit. Additionally, I have extensive knowledge in integrating RESTful APIs and conducting unit testing.
+Throughout my career, I’ve worked with a variety of third-party and native libraries including **Alamofire**, **RealmDB**, **CloudKit**, **CoreData**, and **UIKit**. I’m skilled in designing **custom user interfaces** using both modern approaches like **SwiftUI** and traditional tools like **Storyboards**. My workflow includes **RESTful API integration**, **unit testing**, and maintaining **clean, scalable code**.
 
-Furthermore, I have ventured into the field of Backend development using Django, as well as Frontend development using technologies like ReactJS. My passion for innovation and new technologies, coupled with my enthusiasm for learning something new every day, makes me an invaluable part of any team seeking creative and innovative solutions.
+Beyond mobile development, I have expanded into **backend development** with **Django** and **frontend web development** using **ReactJS**. I’m currently pursuing a **master’s in Data Science and Innovation**, exploring how **AI** and emerging technologies are reshaping software development and product design.
 
-To view all my projects, including previews and production links, please visit: https://nelkit.dev/projects 
+With experience as a **freelance web and GIS developer**, I bring a **multidisciplinary mindset**, combining strong technical skills with a passion for **design**, **innovation**, and **continuous learning**.
+
+📁 To explore my portfolio, including **project previews** and **live demos**, visit: [https://nelkit.dev/projects](https://nelkit.dev/projects)
+
 
 <div align="center">
     <h2>Get in touch 📲</h2>
