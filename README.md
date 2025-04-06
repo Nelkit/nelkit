@@ -10,7 +10,7 @@ I’m a **mobile developer** with over **seven years of experience** building hi
 
 Throughout my career, I’ve worked with a variety of third-party and native libraries including **Alamofire**, **RealmDB**, **CloudKit**, **CoreData**, and **UIKit**. I’m skilled in designing **custom user interfaces** using both modern approaches like **SwiftUI** and traditional tools like **Storyboards**. My workflow includes **RESTful API integration**, **unit testing**, and maintaining **clean, scalable code**.
 
-Beyond mobile development, I have expanded into **backend development** with **Django** and **frontend web development** using **ReactJS**. I’m currently pursuing a **master’s in Data Science and Innovation**, exploring how **AI** and emerging technologies are reshaping software development and product design.
+Beyond mobile development, I have expanded into **backend development** with **Django** and **frontend web development** using **ReactJS**, **Astro**, **Tailwind**, and other tools. I've always enjoyed crafting user experiences on the frontend, but as the tech industry rapidly evolves, I’ve developed a strong interest in **artificial intelligence** and its real-world applications. This shift led me to specialize further by pursuing a **Master’s in Data Science and Innovation** at **UTS**, where I’m exploring how **AI** and emerging technologies are transforming software development and product design.
 
 With experience as a **freelance web and GIS developer**, I bring a **multidisciplinary mindset**, combining strong technical skills with a passion for **design**, **innovation**, and **continuous learning**.
 
