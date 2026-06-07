@@ -1,34 +1,37 @@
 <div align="center">
-<h1>Welcome to my Github Profile 👨🏽‍💻!</h1>
+<h1>Hey, I'm Nelkit 👋</h1>
 </div>
-
 <a href="https://nelkit.dev/" style="width:100%">
     <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/hero.png" width="100%" alt="header" border="0" />
 </a>
-
-I’m a **mobile developer** with over **seven years of experience** building high-quality mobile applications using **native technologies** like **Swift** and **hybrid frameworks** such as **Flutter** and **React Native**.
-
-Throughout my career, I’ve worked with a variety of third-party and native libraries including **Alamofire**, **RealmDB**, **CloudKit**, **CoreData**, and **UIKit**. I’m skilled in designing **custom user interfaces** using both modern approaches like **SwiftUI** and traditional tools like **Storyboards**. My workflow includes **RESTful API integration**, **unit testing**, and maintaining **clean, scalable code**.
-
-Beyond mobile development, I have expanded into **backend development** with **Django** and **frontend web development** using **ReactJS**, **Astro**, **Tailwind**, and other tools. I've always enjoyed crafting user experiences on the frontend, but as the tech industry rapidly evolves, I’ve developed a strong interest in **artificial intelligence** and its real-world applications. This shift led me to specialize further by pursuing a **Master’s in Data Science and Innovation** at **UTS**, where I’m exploring how **AI** and emerging technologies are transforming software development and product design.
-
-With experience as a **freelance web and GIS developer**, I bring a **multidisciplinary mindset**, combining strong technical skills with a passion for **design**, **innovation**, and **continuous learning**.
-
-📁 To explore my portfolio, including **project previews** and **live demos**, visit: [https://nelkit.dev/projects](https://nelkit.dev/projects)
-
-
+I'm an **AI & ML Engineer** completing a **Master of Data Science and Innovation** at **UTS Sydney**, with **7+ years** of experience shipping mobile and full-stack products.
+ 
+My background is in **Swift**, **Flutter**, and **React Native** · but for the past two years I've been building AI-powered products: multi-agent LLM systems, ML APIs, computer vision models, and data products that reach production, not just notebooks.
+ 
+**What I work with now:**
+ 
+- **AI / ML:** PyTorch, scikit-learn, TensorFlow, transfer learning, fine-tuning
+- **NLP / LLMs:** LangChain, CrewAI, HuggingFace Transformers, DeBERTa, RAG, ChromaDB
+- **MLOps & APIs:** FastAPI, Docker, Streamlit, Render, GitHub Actions
+- **Full-Stack:** Python, Django, ReactJS, NextJS, Astro, TypeScript, PostgreSQL, MongoDB
+- **Mobile:** Swift, SwiftUI, Flutter, React Native
+**Selected projects:**
+ 
+- 🏆 [sydney-liveability-ai](https://github.com/nelkit/sydney-liveability-ai) · Multi-agent LLM app for Sydney liveability insights · Best AI LLM Project Award, UTS 2025
+- 📈 [crypto-predictor-streamlit](https://github.com/nelkit/crypto-predictor-streamlit) · Crypto price prediction dashboard · Streamlit + FastAPI + ML
+- 🍔 [food101-transfer-learning-cnn](https://github.com/nelkit/food101-transfer-learning-cnn) · CNN transfer learning on Food101 · GoogLeNet, MobileNetV3, ResNet50
+- 🌧️ [sydney-weather-fastapi](https://github.com/nelkit/sydney-weather-fastapi) · Rain prediction API for Sydney · Docker + Render
+📁 Full project walkthroughs and live demos at [nelkit.dev/projects](https://nelkit.dev/projects)
+ 
+---
+ 
 <div align="center">
-    <h2>Get in touch 📲</h2>
+    <h3>Get in touch</h3>
 </div>
-
-<div align="center"> 
-    <span>      [     </span>
-    <a  href="https://twitter.com/nelkitchavez" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_twitter.png" alt="twitter" border="0" width="48"></a>
-    <span>     ]      [     </span>
-    <a  href="https://www.linkedin.com/in/nelkit/" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_linkedin.png"  alt="linkedin" border="0" height="48"></a>
-   <span>      ]      [     </span>
-    <a  href="mailto:nelkitisael792@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_email.png" alt="email" border="0" height="48" ></a>
-   <span>      ]      [      </span>
-    <a  href="https://assets.ctfassets.net/2sw9nk47elm0/6tJjHR93AClHDloAZ5N0PU/c6c9aca3e8879e5aa14191c95874f447/Resume_Nelkit_Chavez.pdf" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="cv" border="0" height="48" ></a>
-    <span>      ]     </span>
+<div align="center">
+    <a href="https://www.linkedin.com/in/nelkit/" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_linkedin.png" alt="linkedin" border="0" height="48"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:nelkitisael792@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_email.png" alt="email" border="0" height="48"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://nelkit.dev" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="portfolio" border="0" height="48"></a>
 </div>
