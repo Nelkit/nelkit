@@ -4,6 +4,7 @@
 <a href="https://nelkit.dev/" style="width:100%">
     <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/hero.png" width="100%" alt="header" border="0" />
 </a>
+
 I'm an **AI & ML Engineer** completing a **Master of Data Science and Innovation** at **UTS Sydney**, with **7+ years** of experience shipping mobile and full-stack products.
  
 My background is in **Swift**, **Flutter**, and **React Native** · but for the past two years I've been building AI-powered products: multi-agent LLM systems, ML APIs, computer vision models, and data products that reach production, not just notebooks.
@@ -15,8 +16,8 @@ My background is in **Swift**, **Flutter**, and **React Native** · but for the 
 - **MLOps & APIs:** FastAPI, Docker, Streamlit, Render, GitHub Actions
 - **Full-Stack:** Python, Django, ReactJS, NextJS, Astro, TypeScript, PostgreSQL, MongoDB
 - **Mobile:** Swift, SwiftUI, Flutter, React Native
+
 **Selected projects:**
- 
 - 🏆 [sydney-liveability-ai](https://github.com/nelkit/sydney-liveability-ai) · Multi-agent LLM app for Sydney liveability insights · Best AI LLM Project Award, UTS 2025
 - 📈 [crypto-predictor-streamlit](https://github.com/nelkit/crypto-predictor-streamlit) · Crypto price prediction dashboard · Streamlit + FastAPI + ML
 - 🍔 [food101-transfer-learning-cnn](https://github.com/nelkit/food101-transfer-learning-cnn) · CNN transfer learning on Food101 · GoogLeNet, MobileNetV3, ResNet50
