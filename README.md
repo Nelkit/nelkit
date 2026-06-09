@@ -2,7 +2,7 @@
 <h1>Hey, Welcome to my Profile 👋</h1>
 </div>
 <a href="https://nelkit.dev/" style="width:100%">
-    <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/hero.jpg" width="100%" alt="header" border="0" />
+    <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/hero.png" width="100%" alt="header" border="0" />
 </a>
 
 I'm an **AI & ML Engineer** completing a **Master of Data Science and Innovation** at **UTS Sydney**, with **7+ years** of experience shipping mobile and full-stack products.
@@ -35,5 +35,5 @@ My background is in **Swift**, **Flutter**, and **React Native** · but for the 
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:nelkitisael792@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_email.png" alt="email" border="0" height="48"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://nelkit.dev" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="portfolio" border="0" height="48"></a>
+    <a href="https://gorgeous-friend-72e96dc12f.media.strapiapp.com/Nelkit_CV_2026_f39a3ce3c1.pdf" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="portfolio" border="0" height="48"></a>
 </div>
