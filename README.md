@@ -8,7 +8,7 @@
 
 I build AI-powered products: RAG systems that cite their sources, multi-agent LLM apps, computer vision pipelines and the data infrastructure behind them.
 
-I'm completing a **Master of Data Science and Innovation at UTS Sydney**, after **7+ years shipping mobile and full-stack products** in Swift, Flutter and React Native. That background is why my models end up deployed, tested and in front of users instead of staying in a notebook.
+I recently completed a **Master of Data Science and Innovation at UTS Sydney** (Nov 2026), after **7+ years shipping mobile and full-stack products** in Swift, Flutter and React Native. That background is why my models end up deployed, tested and in front of users instead of staying in a notebook.
 
 ### Selected work
 
@@ -26,7 +26,7 @@ I'm completing a **Master of Data Science and Innovation at UTS Sydney**, after 
 - **ML & Deep Learning:** PyTorch, TensorFlow/Keras, scikit-learn, reinforcement learning (PPO, Gymnasium, MuJoCo)
 - **Computer Vision:** YOLO, vision-language models (Qwen3-VL), CNN transfer learning
 - **Data Engineering:** Apache Airflow, dbt, Apache Spark (Databricks), PostgreSQL/PostGIS, SQL
-- **MLOps & APIs:** FastAPI, Docker, GitHub Actions, Vercel, Render, AWS
+- **MLOps & APIs:** FastAPI, Docker, GitHub Actions, Vercel, Render, AWS, Oracle Cloud Infrastructure (OCI), Cloudflare R2
 - **Full-Stack:** TypeScript, Next.js, React, Django, Astro, Tailwind CSS
 - **Mobile:** Swift, SwiftUI, UIKit, Flutter, React Native
 
@@ -40,5 +40,5 @@ I'm completing a **Master of Data Science and Innovation at UTS Sydney**, after 
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:nelkitisael792@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_email.png" alt="Email" border="0" height="48"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://media.nelkit.dev/profile/cv-en-o6zc6nbw.pdf" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="CV" border="0" height="48"></a>
+    <a href="https://media.nelkit.dev/profile/cv-en-3l7ns2nu.pdf" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="CV" border="0" height="48"></a>
 </div>
