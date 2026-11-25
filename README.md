@@ -1,39 +1,44 @@
 <div align="center">
-<h1>Hey, Welcome to my Profile 👋</h1>
+<h1>Hi, I'm Nelkit 👋</h1>
+<p><b>AI & ML Engineer · MSc Data Science @ UTS · Full-Stack Product Builder</b></p>
 </div>
-<a href="https://nelkit.dev/" style="width:100%">
-    <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/hero.png" width="100%" alt="header" border="0" />
+<a href="https://www.nelkit.dev/en" style="width:100%">
+    <img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/hero.png" width="100%" alt="Nelkit Chavez, AI and ML Engineer" border="0" />
 </a>
 
-I'm an **AI & ML Engineer** completing a **Master of Data Science and Innovation** at **UTS Sydney**, with **7+ years** of experience shipping mobile and full-stack products.
- 
-My background is in **Swift**, **Flutter**, and **React Native** · but for the past two years I've been building AI-powered products: multi-agent LLM systems, ML APIs, computer vision models, and data products that reach production, not just notebooks.
- 
-**What I work with now:**
- 
-- **AI / ML:** PyTorch, scikit-learn, TensorFlow, transfer learning, fine-tuning
-- **NLP / LLMs:** LangChain, CrewAI, HuggingFace Transformers, DeBERTa, RAG, ChromaDB
-- **MLOps & APIs:** FastAPI, Docker, Streamlit, Render, GitHub Actions
-- **Full-Stack:** Python, Django, ReactJS, NextJS, Astro, TypeScript, PostgreSQL, MongoDB
-- **Mobile:** Swift, SwiftUI, Flutter, React Native
+I build AI-powered products: RAG systems that cite their sources, multi-agent LLM apps, computer vision pipelines and the data infrastructure behind them.
 
-**Selected projects:**
-- 🏆 [sydney-liveability-ai](https://github.com/nelkit/sydney-liveability-ai) · Multi-agent LLM app for Sydney liveability insights · Best AI LLM Project Award, UTS 2025
-- 📈 [crypto-predictor-streamlit](https://github.com/nelkit/crypto-predictor-streamlit) · Crypto price prediction dashboard · Streamlit + FastAPI + ML
-- 🍔 [food101-transfer-learning-cnn](https://github.com/nelkit/food101-transfer-learning-cnn) · CNN transfer learning on Food101 · GoogLeNet, MobileNetV3, ResNet50
-- 🌧️ [sydney-weather-fastapi](https://github.com/nelkit/sydney-weather-fastapi) · Rain prediction API for Sydney · Docker + Render
+I'm completing a **Master of Data Science and Innovation at UTS Sydney**, after **7+ years shipping mobile and full-stack products** in Swift, Flutter and React Native. That background is why my models end up deployed, tested and in front of users instead of staying in a notebook.
 
-📁 Full project walkthroughs and live demos at [nelkit.dev/projects](https://nelkit.dev/projects)
- 
+### Selected work
+
+- 🎥 **[Horus](https://github.com/uts-ilab-p08/cctv-query-frontend)** · Plain-English search over multi-camera CCTV footage. RAG with cited answers that jump to the exact second of video, built on Qwen3-VL, YOLO26 and Qdrant. UTS capstone, [live demo](https://cctvai.site)
+- 🏆 **[Sydney Liveability AI](https://github.com/Nelkit/sydney-liveability-ai)** · Multi-agent RAG app (CrewAI, DeBERTa, ChromaDB) that ranks 656 Sydney suburbs for newcomers. Best AI LLM Project, UTS Applied NLP 2026
+- 🚁 **[AgriFlight-RL](https://github.com/Nelkit/agroflight-rl)** · Custom MuJoCo drone environment for crop-row flight in the wind. My PPO agent cleared all 5 difficulty levels with 0% crashes
+- 📈 **[Crypto Price Prediction](https://github.com/Nelkit/crypto-predictor-streamlit)** · LSTM forecasts served as Dockerised FastAPI microservices behind a Streamlit dashboard
+- 🖼️ **[Image Captioning for Blind Users' Photos](https://github.com/Nelkit/dl-image-captioning-at3)** · MobileNetV3 + LSTM on VizWiz, the best of the team's 10 models
+
+📁 Full walkthroughs, metrics and live demos at **[nelkit.dev/projects](https://www.nelkit.dev/en/projects)**
+
+### What I work with
+
+- **LLMs & RAG:** LangChain, CrewAI, Hugging Face Transformers, Qdrant, ChromaDB, OpenRouter
+- **ML & Deep Learning:** PyTorch, TensorFlow/Keras, scikit-learn, reinforcement learning (PPO, Gymnasium, MuJoCo)
+- **Computer Vision:** YOLO, vision-language models (Qwen3-VL), CNN transfer learning
+- **Data Engineering:** Apache Airflow, dbt, Apache Spark (Databricks), PostgreSQL/PostGIS, SQL
+- **MLOps & APIs:** FastAPI, Docker, GitHub Actions, Vercel, Render, AWS
+- **Full-Stack:** TypeScript, Next.js, React, Django, Astro, Tailwind CSS
+- **Mobile:** Swift, SwiftUI, UIKit, Flutter, React Native
+
 ---
- 
+
 <div align="center">
     <h3>Get in touch</h3>
 </div>
 <div align="center">
-    <a href="https://www.linkedin.com/in/nelkit/" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_linkedin.png" alt="linkedin" border="0" height="48"></a>
+    <a href="https://www.linkedin.com/in/nelkit/" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_linkedin.png" alt="LinkedIn" border="0" height="48"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:nelkitisael792@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_email.png" alt="email" border="0" height="48"></a>
+    <a href="mailto:nelkitisael792@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_email.png" alt="Email" border="0" height="48"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://gorgeous-friend-72e96dc12f.media.strapiapp.com/Nelkit_CV_2026_f39a3ce3c1.pdf" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="portfolio" border="0" height="48"></a>
+    <a href="https://media.nelkit.dev/profile/cv-en-o6zc6nbw.pdf" target="_blank"><img src="https://raw.githubusercontent.com/Nelkit/nelkit/master/images/icon_cv.png" alt="CV" border="0" height="48"></a>
 </div>
